@@ -1,3 +1,5 @@
+---
+
 repo_url: https://raw.githubusercontent.com/ohidurbappy/fdroid/main/fdroid/repo
 repo_name: Ohidur's F-Droid Repo
 repo_description: >-
@@ -6,3 +8,13 @@ repo_description: >-
   application developers.  
 
 archive_older: 0
+repo_icon: icon.png
+
+repo_keyalias: localhost
+keystore: keystore.p12
+keystorepass: 1g5MuMlP89Fp1tL6QsshcvzX9ZHsvVlucclRaUaNJnw=
+keypass: 1g5MuMlP89Fp1tL6QsshcvzX9ZHsvVlucclRaUaNJnw=
+
+# The distinguished name used for all keys.
+keydname: CN=localhost, OU=F-Droid
+

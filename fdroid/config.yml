@@ -1,0 +1,8 @@
+repo_url: https://raw.githubusercontent.com/ohidurbappy/fdroid/main/fdroid/repo
+repo_name: Ohidur's F-Droid Repo
+repo_description: >-
+  This is an OFFICIAL Ohidur's android apps repository compatible with F-Droid.
+  Applications in this repository are official binaries built by the original
+  application developers.  
+
+archive_older: 0
